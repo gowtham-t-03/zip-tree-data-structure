@@ -13,7 +13,7 @@ Tree statistics (height, avg path length, balance factor)
  Concept
 Zip Trees are randomized binary search trees that maintain expected O(log n) height using geometric rank distribution.
 
-📊 Benchmarks
+Benchmarks
 
 The program evaluates:
 
